@@ -1,0 +1,8 @@
+pdz-domain-peptide-interaction
+
+Author: Benjamin Petrin
+
+Description: This project contains a Python implementation of the algorithm
+described in the supplemental methods of "Predicting PDZ domain-peptide
+interactions from primary sequences" along with a Pythonic representation of
+the data set produced by that paper.
